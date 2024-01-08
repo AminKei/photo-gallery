@@ -10,6 +10,7 @@ const root = ReactDOM.createRoot(
 root.render(
   <React.StrictMode>
     <Animation1/>
+  //<Animation2/>
   </React.StrictMode>
 );
 
